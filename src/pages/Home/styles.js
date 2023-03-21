@@ -303,6 +303,14 @@ export const Crypto = styled.section`
 
                 .crypto {
                     grid-area: crypto;
+
+                }
+                
+                .chart {
+                    img {
+                        display: none;
+                    }
+                
                 }
 
                 .percent {

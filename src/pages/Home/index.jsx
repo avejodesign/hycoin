@@ -24,6 +24,9 @@ import imgTetherIcon from "../../assets/cryptos/tether.png";
 import imgBinanceIcon from "../../assets/cryptos/binance.png";
 import imgXRPIcon from "../../assets/cryptos/xrp.png";
 import imgDashcoinIcon from "../../assets/cryptos/dashcoin.png";
+import imgChartGreen from "../../assets/chart-green.png";
+import imgChartRed from "../../assets/chart-red.png";
+
 
 // Img Whats New 
 import imgSafe from "../../assets/safe.svg";
@@ -156,7 +159,7 @@ function Home() {
                                                     </div>
                                                 </div>
                                                 <div className="chart">
-
+                                                    <img src={imgChartGreen} alt="" />
                                                 </div>
                                                 <div className="percent">
                                                     <p>+2.25% <MdArrowOutward /></p>
@@ -180,7 +183,7 @@ function Home() {
                                                     </div>
                                                 </div>
                                                 <div className="chart">
-
+                                                    <img src={imgChartRed} alt="" />
                                                 </div>
                                                 <div className="percent">
                                                     <p>+2.25% <MdArrowOutward /></p>
@@ -204,7 +207,7 @@ function Home() {
                                                     </div>
                                                 </div>
                                                 <div className="chart">
-
+                                                    <img src={imgChartGreen} alt="" />
                                                 </div>
                                                 <div className="percent">
                                                     <p>+2.25% <MdArrowOutward /></p>
@@ -228,7 +231,7 @@ function Home() {
                                                     </div>
                                                 </div>
                                                 <div className="chart">
-
+                                                    <img src={imgChartGreen} alt="" />
                                                 </div>
                                                 <div className="percent">
                                                     <p>+2.25% <MdArrowOutward /></p>
@@ -252,7 +255,7 @@ function Home() {
                                                     </div>
                                                 </div>
                                                 <div className="chart">
-
+                                                    <img src={imgChartGreen} alt="" />
                                                 </div>
                                                 <div className="percent">
                                                     <p>+2.25% <MdArrowOutward /></p>
@@ -276,7 +279,7 @@ function Home() {
                                                     </div>
                                                 </div>
                                                 <div className="chart">
-
+                                                    <img src={imgChartRed} alt="" />
                                                 </div>
                                                 <div className="percent">
                                                     <p>+2.25% <MdArrowOutward /></p>
