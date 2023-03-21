@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 
 import GlobalStyle from './styles/global'
-import "./fonts/Oddval/oddval.otf"; 
+import "./src/fonts/Oddval/oddval.otf"; 
 
 import Routes from './routes'
 
