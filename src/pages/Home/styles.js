@@ -382,7 +382,7 @@ export const WhatsNew = styled.section`
                 left: 0;
                 width: 100%;
                 height: 100%;
-                background: url("https://hycoin.netlify.app/src/assets/background-whats-new.png") no-repeat;
+                background: url("./../../src/assets/background-whats-new.png") no-repeat;
             }
 
             .box-icon {
@@ -605,7 +605,7 @@ export const Banner = styled.section`
             width: 500px;
             height: 500px;
             transform: scale(1.2);
-            background: url("https://hycoin.netlify.app/src/assets/background-banner.png") no-repeat;
+            background: url("./../../src/assets/background-banner.png") no-repeat;
         }
 
         &:after {
@@ -615,7 +615,7 @@ export const Banner = styled.section`
             left: -50px;
             width: 500px;
             height: 500px;
-            background: url("https://hycoin.netlify.app/src/assets/background-banner.png") no-repeat;
+            background: url("./../../src/assets/background-banner.png") no-repeat;
             transform: scale(1.2) rotate(180deg);
         }
 
