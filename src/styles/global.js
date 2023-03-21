@@ -10,7 +10,7 @@ export default createGlobalStyle`
     @font-face {
         font-family: "Oddval";
         src: local("Oddval"),
-        url("/fonts/Oddval/oddval.otf");
+        url("https://hycoin.netlify.app/src/fonts/Oddval/oddval.otf");
         font-weight: medium;
         font-style: normal;
     }
