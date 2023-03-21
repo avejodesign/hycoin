@@ -12,6 +12,7 @@ export default createGlobalStyle`
         src: local("Oddval"),
         url("./src/fonts/Oddval/oddval.otf");
         font-weight: medium;
+        font-style: normal;
     }
 
     * {
