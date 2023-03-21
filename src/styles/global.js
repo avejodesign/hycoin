@@ -7,11 +7,12 @@ export default createGlobalStyle`
         --color-dark: #011627;
     }
 
+
     @font-face {
-        font-family: "Oddval";
-        src: local("Oddval"),
-        url("../src/fonts/Oddval/oddval.otf");
-        font-weight: medium;
+        font-family: 'Oddval';
+        src: url('../src/fonts/Oddval/oddval.woff2') format('woff2'),
+            url('../src/fonts/Oddval/oddval.woff') format('woff');
+        font-weight: normal;
         font-style: normal;
     }
 
